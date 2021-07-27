@@ -11,7 +11,7 @@ A bot to automate Aim Booster Game
     * pyautogui
     * pywin32
     
-    You need to use pip in Termnal / Command Prompt to install the modules
+    You need to use [pip](https://pip.pypa.io/en/stable/) in Terminal / Command Prompt to install the modules
     ```bash
     pip install pyautogui
     pip install keyboard
@@ -21,6 +21,6 @@ A bot to automate Aim Booster Game
     
 3. Run the script
 
-4. Open Aim Booster Website
+4. Open [Aim Booster Website](http://www.aimbooster.com/)
 
 Note: To stop the script press 'q' on the keyboard.
