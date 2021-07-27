@@ -1,8 +1,8 @@
-#Aim Booster Bot
+# Aim Booster Bot
 
 A bot to automate Aim Booster Game
 
-##Step
+## Step
 
 1. Download / Clone Repository.
 2. Install the following modules
